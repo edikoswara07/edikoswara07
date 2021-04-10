@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @edikoswara07
+- 👀 I’m interested in web programing
+- 🌱 I’m currently learning react  - tailwindcss
+- 💞️ I’m looking to collaborate on start up
+- 📫 How to reach me edikoswara1st@gmail.com
